@@ -116,6 +116,7 @@ ul li a{
   justify-content: center;
   border-radius: 8px;
   border: 1px solid var(--stroke-color);
+  border: 1.5px solid var(--text-color);
   background: var(--surface-color);
   backdrop-filter: blur(4px);
   text-decoration: none;
